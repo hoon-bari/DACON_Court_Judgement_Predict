@@ -1,2 +1,22 @@
 # DACON_Court_Judgement_Predict
 [DACON, Private 6th] 월간 데이콘 법원 판결 예측 AI 경진대회 코드입니다.
+  
+![001](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/82a36d82-7bb7-4962-b34d-00e1fc6578ef)
+![002](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/a27808b4-c906-4ec5-9a14-6f331b4f2213)
+![003](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/d24d0d46-35b8-42c2-b973-0913c38a7100)
+![004](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/ead78135-ec29-4491-86d8-9b6f717a3dfe)
+![005](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/ba30b4e4-65c8-4eef-8091-9b04a9d002e6)
+![006](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/28511e4d-d0e6-4f85-8d35-84ac65bef7d4)
+![007](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/f46cb5c7-ea6b-4895-8a6e-c839690bf7b8)
+![008](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/8c90f6f9-c238-48e8-9eec-672ab6ae3dbb)
+![009](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/0890c418-1358-4447-a4e2-c7858c360425)
+![010](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/ecc5e9de-b48d-494c-bb3e-409deb4bdb9b)
+![011](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/5462c29d-40e6-4bfa-81aa-fe97df3ce0af)
+![012](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/6c01364b-e1b3-4306-8f79-8f1fddefc48b)
+![013](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/2116df82-e492-429c-ac10-10aa3004ed83)
+![014](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/2690180c-9033-47af-b11c-d5d19eba7e53)
+![015](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/e3bd7bcb-efc8-4509-9732-928d29cb4f8f)
+![016](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/2fced90a-4ce7-4392-ab05-6f170fa9f154)
+![017](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/20f0da6a-0428-41e1-badc-2e6001fa8417)
+![018](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/b7704953-1bce-462b-aff9-9ee1ae99e5f0)
+![019](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/8dd2b2b5-20f0-4906-a0d6-f1b92525a09a)
