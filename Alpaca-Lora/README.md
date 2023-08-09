@@ -12,4 +12,4 @@ Git Clone 한 Alpaca-Lora file 중, 수정한 finetune.py만 올렸습니다.
     ).__get__(model, type(model))  
     '''
   
-나머지 진행은 notebook LLM finetuning 파일 및 Alpaca-Lora Github(https://github.com/tloen/alpaca-lora)을 참고해주세요.
+나머지 진행은 notebook LLM finetuning 파일 및 Alpaca-Lora Github(https://github.com/tloen/alpaca-lora) 을 참고해주세요.
