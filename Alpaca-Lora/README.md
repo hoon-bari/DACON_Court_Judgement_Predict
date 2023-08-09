@@ -1,7 +1,7 @@
 ## fine-tuning Alpaca-Lora for Dacon Competition  
 Git Clone 한 Alpaca-Lora file 중, 수정한 finetune.py만 올렸습니다.  
-  수정 부분  
-    아래 부분 주석 처리  
+  ### 수정 부분  
+  1. 아래 부분 주석 처리  
     '''  
     old_state_dict = model.state_dict  
     model.state_dict = (  
