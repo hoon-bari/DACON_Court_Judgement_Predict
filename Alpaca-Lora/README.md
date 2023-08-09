@@ -1,5 +1,6 @@
 ## fine-tuning Alpaca-Lora for Dacon Competition  
 Git Clone 한 Alpaca-Lora file 중, 수정한 finetune.py만 올렸습니다.  
+  
   ### 수정 부분  
   1. 아래 부분 주석 처리  
     '''  
@@ -9,5 +10,6 @@ Git Clone 한 Alpaca-Lora file 중, 수정한 finetune.py만 올렸습니다.
             self, old_state_dict()  
         )  
     ).__get__(model, type(model))  
-    '''  
-   나머지 진행은 notebook LLM finetuning 파일을 참고해주세요.
+    '''
+  
+나머지 진행은 notebook LLM finetuning 파일을 참고해주세요.
