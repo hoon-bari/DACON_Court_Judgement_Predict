@@ -19,5 +19,4 @@
 ![016](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/337268f1-2f5b-41ef-8df3-c0ebc220a30c)
 ![017](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/c0c1b8c2-2505-4758-b3bd-2711fa66b0ec)
 ![018](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/d73d8164-a6ee-4c6f-92c2-1e4750de44bd)
-![019](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/741f8e10-df28-4551-8e89-f7cb7b6552fa)
 ![020](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/af5f3d8d-8b84-4325-98b9-d6d9ad06cafa)
