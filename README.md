@@ -2,9 +2,9 @@
 [DACON, 수상🏆(5위]] 월간 데이콘 법원 판결 예측 AI 경진대회 코드입니다.
    
   
-![001](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/394f504f-2c23-4109-b68d-36c3e1997086)
+![001](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/098a46be-e731-4725-ae55-aa2aca6ec3de)
 ![002](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/34922a48-73ea-480a-8c3c-72b386b0e50b)
-![003](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/0727d772-8047-40bb-84bb-3f95d51ef15a)
+![003](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/936fc52e-e5c6-4e76-ac6f-fe650ea55472)
 ![004](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/6de0ea34-dfd8-4624-8f2f-11029c544388)
 ![005](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/3ead553c-37c6-48c9-8a11-0626ae83eab8)
 ![006](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/a2d2e65c-1c14-40dd-b5a1-f53a667c0d5f)
@@ -21,4 +21,4 @@
 ![017](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/17e4c29d-5f99-411d-8d44-3030bfd2d4c9)
 ![018](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/5c38a95e-368e-44ef-901f-659fe73bca1b)
 ![019](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/d0a68542-95f7-435a-a149-bbdcccd44963)
-![020](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/55a8c443-5340-4a7a-843d-c7fd1a82566d)
+![020](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/4e0df1b0-107e-486c-bb22-59a6f4f7c6a8)
