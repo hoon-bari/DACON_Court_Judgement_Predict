@@ -1,7 +1,8 @@
 # DACON_Court_Judgement_Predict
 [DACON, 수상🏆(5위]] 월간 데이콘 법원 판결 예측 AI 경진대회 코드입니다.    
 코드 및 PPT는 각각 notebook, presentation folder에 올렸으며, 코드의 경우 데이콘 홈페이지에도 업로드했습니다.   
-[코드 공유 1. 수상 코드](https://dacon.io/competitions/official/236112/codeshare/8467?page=2&dtype=recent) [코드 공유 2. Alpaca-Lora](https://dacon.io/competitions/official/236112/codeshare/8449?page=1&dtype=recent)
+[코드 공유 1. 수상 코드](https://dacon.io/competitions/official/236112/codeshare/8467?page=2&dtype=recent)    
+[코드 공유 2. Alpaca-Lora](https://dacon.io/competitions/official/236112/codeshare/8449?page=1&dtype=recent)     
   
 ![001](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/098a46be-e731-4725-ae55-aa2aca6ec3de)
 ![002](https://github.com/hoon-bari/DACON_Court_Judgement_Predict/assets/121400054/34922a48-73ea-480a-8c3c-72b386b0e50b)
